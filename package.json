@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "lighthouse",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/promilo/week1day5.git"
+  },
+  "keywords": [
+    "try"
+  ],
+  "author": "milind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/promilo/week1day5/issues"
+  },
+  "homepage": "https://github.com/promilo/week1day5#readme"
+}
